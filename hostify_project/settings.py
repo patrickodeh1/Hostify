@@ -136,6 +136,6 @@ EMAIL_HOST = 'smtp.example.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'patlabsdigitalservices@gmail.com'
-EMAIL_HOST_PASSWORD = 'inalegwu'
+EMAIL_HOST_PASSWORD = ''
 DEFAULT_FROM_EMAIL = 'Your App <noreply@example.com>'
 SITE_URL = 'http://127.0.0.1:8000'  # Update with your production domain
